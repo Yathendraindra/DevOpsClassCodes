@@ -67,8 +67,5 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 
 *** End of documentation
 
-This is test 1
-This is test 2
-
 
 
